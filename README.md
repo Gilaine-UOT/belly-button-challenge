@@ -1,7 +1,7 @@
 # belly-button-challenge
 
 
-It has been deployed a sample project to GitHub Pages available on https://gilaine-uot.github.io/belly-button-challenge/ with a interactive Dashboard.
+It has been deployed a sample project to GitHub Page available on https://gilaine-uot.github.io/belly-button-challenge/ with a interactive Dashboard.
 
 --------------------------------------------------------------------------------------------------------------------------
 
